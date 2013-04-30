@@ -1,0 +1,1 @@
+﻿AS3 worker的例子，对比了没有使用worker和使用worker的效果！
